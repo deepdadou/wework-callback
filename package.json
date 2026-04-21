@@ -1,0 +1,16 @@
+{
+  "name": "wework-callback",
+  "version": "1.0.0",
+  "description": "开先新辐设置企业微信消恬的才",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js",
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@vercel/node": "^3.0.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
